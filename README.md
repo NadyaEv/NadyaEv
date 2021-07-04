@@ -8,15 +8,13 @@ I'm Nadya. I’m currently learning Java and study at "21 School" (Ecole 42).
 
 <h3>Java:</h3>
 
-Secured REST API на Spring Boot
-Game Of Life
-"Змейка" на карте высот
+<p>Базовый курс по Java.</p>
   
 <h3>C</h3>
 
-Трассировка лучей. Рендер.
-Многопоточность. Задача об обедающих философах
+<p>Трассировка лучей. Рендер.</p>
+<p>Многопоточность. Задача об обедающих философах.</p>
 
 <h3>Другие:</h3>
 
-Kubernetes. Кластаризация.
+<p>Kubernetes. Кластаризация.</p>
