@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**NadyaEv/NadyaEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nadya. I’m currently learning Java and study at "21 School" (Ecole 42).
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kbrady?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Мои проекты:</h2>
+
+<h3>Java:</h3>
+
+Secured REST API на Spring Boot
+Game Of Life
+"Змейка" на карте высот
+  
+<h3>C</h3>
+
+Трассировка лучей. Рендер.
+Многопоточность. Задача об обедающих философах
+
+<h3>Другие:</h3>
+
+Kubernetes. Кластаризация.
